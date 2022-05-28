@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>
-    <a href=" https://olaoluwavincent.github.io/qr-code-component-main/" color="white">
+    <a href="https://olaoluwavincent.github.io/qr-code-component-main/" color="white">
       Live
     </a>
   <span> | </span>    <a href="https://www.frontendmentor.io/solutions/cardcomponent-using-flexbox-and-positioning-JvbUrb-h2y">

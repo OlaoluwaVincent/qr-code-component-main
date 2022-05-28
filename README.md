@@ -1,4 +1,4 @@
-<img src="https://github.com/OlaoluwaVincent/nft-preview-card-component-main/blob/master/design/desktop-preview.jpg?raw=true"></img>
+<img src="https://github.com/OlaoluwaVincent/qr-code-component-main/blob/master/design/desktop-preview.jpg?raw=true"></img>
 
 <h1 align="center">QR code component Challenge</h1>
 

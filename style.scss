@@ -79,14 +79,11 @@ body {
 
 @media (min-width: 375px) {
     .container {
-        #barcode{
-            & p {
-                font-size: 12px;
-            }
-        }
-        
         & .attribution {
             font-size: 70%;
+            h1{
+            fontweight:12px;
+            }
         }
     }
 }

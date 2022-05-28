@@ -10,7 +10,7 @@
   <span> | </span>    <a href="https://www.frontendmentor.io/solutions/qr-code-component-challenge-using-scss-nc7tJ72TSU">
       Solution
     </a>
-  <span> | </span>    <a href="https://www.frontendmentor.io/solutions/cardcomponent-using-flexbox-and-positioning-JvbUrb-h2y">
+  <span> | </span>    <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H">
       Challenge
     </a>
   </h3>

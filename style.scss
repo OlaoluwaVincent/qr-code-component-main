@@ -79,6 +79,9 @@ body {
 
 @media (min-width: 375px) {
     .container {
+        p {
+            font-size: 14px;
+        }
         & .attribution {
             font-size: 70%;
         }

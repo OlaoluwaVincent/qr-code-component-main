@@ -79,9 +79,12 @@ body {
 
 @media (min-width: 375px) {
     .container {
-        p {
-            font-size: 14px;
+        #barcode{
+            & p {
+                font-size: 12px;
+            }
         }
+        
         & .attribution {
             font-size: 70%;
         }
